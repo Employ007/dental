@@ -1,0 +1,46 @@
+.navbar li{
+
+    border: none;
+    display: inline-block;
+    font-size: large;
+    height: 40px;
+    padding: -2px 0px;
+    margin: -12px 0px;
+}
+.fa{
+    font-size: 21px;
+}
+.navbar li a{
+    margin: 0px 0px;
+    padding: 4px 9px;
+    text-decoration: none;
+    color:black;
+
+}
+.btn{
+    padding: 3px 7px;
+    margin: -1px 0px;
+}
+.search{
+    margin: -115px 651px
+}
+.navbar button:hover{
+    cursor: pointer;
+}
+.navbar img:hover{
+    cursor: pointer;
+}
+.navbar a:hover{
+    background-color: rgba(128, 128, 128, 0.146);
+}
+
+.navbar li img{
+    width: 47px;
+    border-radius: 50%;
+    margin: -13px 9px
+}
+.inside{
+    width: 342px;
+    padding: 100px 601px;
+    margin: 2px 9px;
+}
