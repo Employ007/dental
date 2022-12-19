@@ -59,7 +59,7 @@ ul {
     outline:none;
   }
   .searchbar{
-    height: 161px;
+    height: 165px;
     border: none;
     width: 2069px;
     margin-left: 67px;
@@ -114,9 +114,17 @@ ul {
     color: #000;
     
   }
-  .grid-item a h6:hover{
-    color: #707070;
+  .grid-item a:hover{
+    color: #2e1a1a;
     text-decoration: underline;
+    background-color: #aba3a362;
+   
+  }
+
+  .grid-item a h6:hover{
+    color: #2e1a1a;
+    text-decoration: underline;
+    background-color: #e8dbdb6f;
    
   }
   .grid-item a{
